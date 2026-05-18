@@ -13,8 +13,8 @@ I focus on creating high-fidelity, "artifact-level" tools. I combine human desig
 ### 📐 The Synthesis (How I Build)
 I do not "code" in the traditional sense; I architect and manage the process. My work is a transparent partnership between human direction and machine generation:
 
-1.  **The Architect (Human):** I design the overall structure, define the constraints, and map out the logic. I guide the intent of the project.
-2.  **The Author (AI):** 99% of the code, documentation, and audits are written by AI under my guidance. The AI provides the technical labor; I provide the blueprint.
+1.  **The Architect (Human):** I decide the paths and processes, and audit the results with external tools. I design the overall structure and define the constraints.
+2.  **The Author (AI):** The AI performs the technical labor, writing 99% of the code and documentation under my direct supervision.
 3.  **The Artifact (Result):** The outcome is a polished, high-performance tool ready for public use and benefit.
 
 ---
@@ -28,11 +28,11 @@ I maintain a clear distinction between machine-optimized logic and human-centere
 ---
 
 ### 📡 The Open Commons (Licensing & Sovereignty)
-Because these works are predominantly machine-generated, I relinquish traditional ownership. I act as a steward for the Digital Commons.
+To protect the Digital Commons against enclosure and ensure that all improvements remain free for everyone, this project is released under a defensive copyleft license.
 
+*   **Licensing:** All artifacts are licensed under **AGPL-3.0**. This ensures that any derivative works or hosted versions must share their source code under the same terms.
 *   **Sovereignty:** I favor tools that empower individuals and support open-source ecosystems.
-*   **Licensing:** My projects are released under **The Unlicense** or **Creative Commons (CC0)**. Since most of the labor is performed by AI, I waive copyright claims to ensure these tools stay in the public domain, free for anyone to use, change, and share.
-*   **Objective:** To provide the public with high-quality, AI-materialized tools that serve the common good.
+*   **Objective:** To provide the public with high-quality, AI-materialized tools that serve the common good while legally defending their freedom.
 
 ---
-*"Human vision, AI precision, and total public access."*
+*"Human vision, AI precision, and protected public access."*
