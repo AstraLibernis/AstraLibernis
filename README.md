@@ -1,8 +1,8 @@
 # Astra Libernis
 
 Architect-led, AI-assisted open-source tools — built for the commons and
-licensed [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) so
-improvements stay free.
+licensed [MIT](https://opensource.org/license/mit) so anyone is free to use,
+modify, and build on them.
 
 ### Projects
 - [**chacha20-zig**](https://codeberg.org/AstraLibernis/chacha20-zig) — a vectorized ChaCha20 in Zig, benchmarked against Go and Rust
