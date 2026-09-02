@@ -30,7 +30,7 @@ not stale memory.
 ### Fast systems code in Zig
 | Project | What it is | Status |
 |---|---|---|
-| [**zsift**](https://codeberg.org/AstraLibernis/zsift) | Zero-allocation parsing of delimited/tabular text — SIMD fast path + bounded-memory streaming. CSV by default. | v0.1.0 |
+| [**zsift**](https://codeberg.org/AstraLibernis/zsift) | Zero-allocation parsing of delimited/tabular text — SIMD fast path + bounded-memory streaming. CSV by default. | v0.3.0 · complete |
 | [**zimd**](https://codeberg.org/AstraLibernis/zimd) | Portable SIMD ops Zig has no builtin for — gather, scatter, compress, expand, masked load/store — hardware fast path + comptime scalar fallback. | Stable |
 
 ### Trustworthy measurement & tooling
