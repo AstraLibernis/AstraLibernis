@@ -23,30 +23,14 @@ not stale memory.
 
 | Project | What it is | Status |
 |---|---|---|
-| [**zcanon**](https://codeberg.org/AstraLibernis/zcanon) | Zig-competence pack for an LLM — grounds every std API call in the *installed* std and flags common LLM Zig mistakes. | Active |
-| [**nucanon**](https://codeberg.org/AstraLibernis/nucanon) | The Nushell sibling — a self-maintaining map of nu's command surface (from live `scope commands`) + grounding skill & edit-time hook. | Active |
-| [**zephem**](https://codeberg.org/AstraLibernis/zephem) | Extracts a Zig module into pristine, regenerable datasets for LLMs & static research. The map `zcanon` reads. | Active |
+| [**zcanon**](https://github.com/AstraLibernis/zcanon) | Zig-competence pack for an LLM — grounds every std API call in the *installed* std and flags common LLM Zig mistakes. | Active |
+| [**zephem**](https://github.com/AstraLibernis/zephem) | Extracts a Zig module into pristine, regenerable datasets for LLMs & static research. The map `zcanon` reads. | Active |
 
 ### Fast systems code in Zig
 | Project | What it is | Status |
 |---|---|---|
-| [**zsift**](https://codeberg.org/AstraLibernis/zsift) | Zero-allocation parsing of delimited/tabular text — SIMD fast path + bounded-memory streaming. CSV by default. | v0.3.0 · complete |
-| [**zimd**](https://codeberg.org/AstraLibernis/zimd) | Portable SIMD ops Zig has no builtin for — gather, scatter, compress, expand, masked load/store — hardware fast path + comptime scalar fallback. | Stable |
-
-### Trustworthy measurement & tooling
-| Project | What it is | Status |
-|---|---|---|
-| [**benchfence**](https://codeberg.org/AstraLibernis/benchfence) | Trustworthy CPU benchmarks on noisy/shared machines (VMs, CI): detect the venue, fence the noise, gate every sample against the pinned core's idle floor. | Stable |
-| [**zonar**](https://codeberg.org/AstraLibernis/zonar) | A local *"zig outdated"* — check `build.zig.zon` deps for newer versions & Zig compatibility. Zero dependencies, any git host. | Stable |
-| [**gron-rs**](https://codeberg.org/AstraLibernis/gron-rs) | Rust port of `gron` — turn JSON into discrete, greppable assignments. | Stable |
-
-### Explorations — concluded
-Understanding proven and documented; closed cleanly rather than polished forever.
-
-| Project | What it is | Status |
-|---|---|---|
-| [**portable-simd-crosslang**](https://codeberg.org/AstraLibernis/portable-simd-crosslang) | Portable SIMD vectors across five languages (Zig, Rust, C, Go, NumPy): benchmark harness + machine-code analysis on Zen 5 / AVX-512. | Concluded |
-| [**chacha20-zig**](https://codeberg.org/AstraLibernis/chacha20-zig) | Vectorized ChaCha20 (RFC 8439) in pure Zig `@Vector` SIMD — benchmarked against stdlib, RustCrypto, Go, C, and OpenSSL asm. | Concluded |
+| [**zarbor**](https://github.com/AstraLibernis/zarbor) | Gradient-boosted trees, random forests and regularised linear models for tabular CSV, dependency-free — with cross-validation and hyperparameter search as first-class subcommands. | v0.4.0 |
+| [**zsift**](https://github.com/AstraLibernis/zsift) | Zero-allocation parsing of delimited/tabular text — SIMD fast path + bounded-memory streaming. CSV by default. | v0.3.0 · complete |
 
 ---
 
