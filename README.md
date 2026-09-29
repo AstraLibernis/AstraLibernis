@@ -34,7 +34,7 @@ not stale memory.
 | Project | What it is | Licence | Status |
 |---|---|---|---|
 | [**zarbor**](https://github.com/AstraLibernis/zarbor) | Gradient-boosted trees, random forests and regularised linear models for tabular CSV, dependency-free — with cross-validation and hyperparameter search as first-class subcommands. | LGPL-3.0+ | v0.4.0 |
-| [**zsift**](https://github.com/AstraLibernis/zsift) | Zero-allocation parsing of delimited/tabular text — SIMD fast path + bounded-memory streaming. CSV by default. | LGPL-3.0+ | v0.3.1 · complete |
+| [**zsift**](https://github.com/AstraLibernis/zsift) | Zero-allocation parsing of delimited/tabular text — SIMD fast path, multi-core parsing at exact record boundaries, bounded-memory streaming. CSV by default. | LGPL-3.0+ | v0.4.0 · complete |
 
 ### Upcoming
 | Project | What it is | Licence | Status |
