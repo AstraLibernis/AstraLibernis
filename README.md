@@ -28,7 +28,7 @@ not stale memory.
 | Project | What it is | Licence | Status |
 |---|---|---|---|
 | [**zcanon**](https://github.com/AstraLibernis/zcanon) | Zig-competence pack for an LLM — grounds every std API call in the *installed* std and flags common LLM Zig mistakes. | GPL-3.0+ | Active |
-| [**zephem**](https://github.com/AstraLibernis/zephem) | Extracts a Zig module into pristine, regenerable datasets for LLMs & static research. The map `zcanon` reads. | GPL-3.0+ | Active |
+| [**zephem**](https://github.com/AstraLibernis/zephem) | A complete, self-checking map of the Zig std you actually have installed (and your project's dependencies), regenerated from the toolchain's own source. What `zcanon` checks every std call against. | GPL-3.0+ | Active |
 
 ### Fast systems code in Zig
 | Project | What it is | Licence | Status |
